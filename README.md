@@ -1,4 +1,4 @@
-# Working with dplyr
+# Interactive maps with leaflet
 
 
 ## Summary
