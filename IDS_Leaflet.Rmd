@@ -13,7 +13,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ##What are tilemaps?
+
 It is a map rendered by the browser by individually querying for various vector images and seamlessly joining them.
+
 Different layers of vectors can be overlayed over the map. 
 
 
